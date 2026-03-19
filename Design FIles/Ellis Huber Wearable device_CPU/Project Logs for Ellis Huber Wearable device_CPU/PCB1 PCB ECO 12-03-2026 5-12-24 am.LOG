@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=SDA Pin=J1-2
+Removed Pin From Net: NetName=SCL Pin=J1-3
+Removed Pin From Net: NetName=SDA Pin=J3-2
+Removed Pin From Net: NetName=SCL Pin=J3-3
+Change Component Footprint: Designator=SW1 Old Footprint=TL3300CF160Q. New Footprint=PTS526SP15SMTR2 LFS
+Change Component Comment : Designator=SW1 Old Comment=TL3300CF160Q New Comment=PTS526SP15SMTR2LFS
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "TL3300CF160Q."; UniqueID = "\ZYRFDRHF" ("\ZYRFDRHF")
+Change component parameters (AddParameter): Name = "Item Type"; Value = "Switch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "LCSC Part Number"; Value = "C2991193"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "ITT C&K"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer Part Number"; Value = "PTS526SP15SMTR2LFS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pricing"; Value = "1=0.14, 10=0.135, 50=0.135, 100=0.12, 1000=0.12, 10000=0.102 (USD)"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Stock"; Value = "8224"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=NetJ2_3 New Net Name=IMU2_SCL
+Change Net Name : Old Net Name=NetJ2_4 New Net Name=IMU2_SDA
+Change Net Name : Old Net Name=NetJ2_5 New Net Name=IMU2_CS
+Change Net Name : Old Net Name=NetJ2_6 New Net Name=IMU2_INT2
+Change Net Name : Old Net Name=NetJ2_7 New Net Name=IMU2_INT1
+Change Net Name : Old Net Name=NetR23_2 New Net Name=LED1
+Change Net Name : Old Net Name=NetR24_2 New Net Name=LED2
+Change Net Name : Old Net Name=SCL New Net Name=NetR6_1
+Change Net Name : Old Net Name=SDA New Net Name=NetR7_1
+Added Pin To Net: NetName=SCL Pin=J1-3
+Added Pin To Net: NetName=SCL Pin=J3-3
+Added Net: Name=SCL
+Added Pin To Net: NetName=SDA Pin=J1-2
+Added Pin To Net: NetName=SDA Pin=J3-2
+Added Net: Name=SDA

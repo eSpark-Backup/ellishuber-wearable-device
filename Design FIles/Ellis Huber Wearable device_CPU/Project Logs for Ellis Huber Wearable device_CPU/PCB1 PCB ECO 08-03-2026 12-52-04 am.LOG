@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=NetC2_1 Pin=TP7-1
+Removed Pin From Net: NetName=NetC9_1 Pin=TP7-2
+Removed Member From Class: ClassName=Wireless_Charging Member=TP7
+Added Component: Designator=U6(760308103215)
+Add component (AddParameter): Name = "Category"; Value = "Wireless Power Transmission"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Compliance"; Value = "works with Qi Rx IC's"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Website Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.we-online.com/redexpert/article/760308103215?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.we-online.com/redexpert/spec/760308103215?ad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DC Resistance Max"; Value = "190mOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Inductance"; Value = "14.3uH"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "760308103215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Match Code"; Value = "WE-WPCC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Max"; Value = "105°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature Min"; Value = "-20°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Capability"; Value = "50W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Q Factor"; Value = "40"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rated Current"; Value = "3A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Self Resonant Frequency"; Value = "8.8MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "32"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RIGADO_BMD-340-A-R
+Added Pin To Net: NetName=NetC9_1 Pin=U6-1
+Added Pin To Net: NetName=NetC2_1 Pin=U6-2
+Add Pin To Net: Unknown Pin: Pin U-1
+Add Pin To Net: Unknown Pin: Pin U-2
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Pin To Net: Unknown Pin: Pin U-4
+Add Pin To Net: Unknown Pin: Pin U-5
+Add Pin To Net: Unknown Pin: Pin U-6
+Add Pin To Net: Unknown Pin: Pin U-7
+Add Pin To Net: Unknown Pin: Pin U-8
+Add Pin To Net: Unknown Pin: Pin U-9
+Add Pin To Net: Unknown Pin: Pin U-10
+Add Pin To Net: Unknown Pin: Pin U-11
+Add Pin To Net: Unknown Pin: Pin U-12
+Add Pin To Net: Unknown Pin: Pin U-15
+Add Pin To Net: Unknown Pin: Pin U-16
+Add Pin To Net: Unknown Pin: Pin U-17
+Add Pin To Net: Unknown Pin: Pin U-18
+Add Pin To Net: Unknown Pin: Pin U-22
+Add Pin To Net: Unknown Pin: Pin U-23
+Add Pin To Net: Unknown Pin: Pin U-25
+Add Pin To Net: Unknown Pin: Pin U-29
+Add Pin To Net: Unknown Pin: Pin U-30
+Add Pin To Net: Unknown Pin: Pin U-39
+Add Pin To Net: Unknown Pin: Pin U-40
+Add Pin To Net: Unknown Pin: Pin U-41
+Add Pin To Net: Unknown Pin: Pin U-42
+Add Pin To Net: Unknown Pin: Pin U-43
+Add Pin To Net: Unknown Pin: Pin U-44
+Add Pin To Net: Unknown Pin: Pin U-45
+Add Pin To Net: Unknown Pin: Pin U-46
+Add Pin To Net: Unknown Pin: Pin U-47
+Add Pin To Net: Unknown Pin: Pin U-49
+Add Pin To Net: Unknown Pin: Pin U-50
+Add Pin To Net: Unknown Pin: Pin U-54
+Add Pin To Net: Unknown Pin: Pin U-55
+Add Pin To Net: Unknown Pin: Pin U-58
+Add Pin To Net: Unknown Pin: Pin U-59
+Add Pin To Net: Unknown Pin: Pin U-61
+Add Pin To Net: Unknown Pin: Pin U-64
+Add Pin To Net: Unknown Pin: Pin U-65
+Add Pin To Net: Unknown Pin: Pin U-66
+Add Pin To Net: Unknown Pin: Pin U-67
+Add Pin To Net: Unknown Pin: Pin U-68
+Add Differential Pair: Number of nets in differential pair NetJ4_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ4_3 is 1 instead of 2
+Added Member To Class: ClassName=Wireless_Charging Member=Component U6 14.3uH
+Add Class Member: Failed to add class member : Component U BMD-340-A-R

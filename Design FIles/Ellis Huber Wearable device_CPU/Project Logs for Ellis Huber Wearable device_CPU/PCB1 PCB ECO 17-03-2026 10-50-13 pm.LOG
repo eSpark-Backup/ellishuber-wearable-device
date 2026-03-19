@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=RST Pin=TP8-1
+Removed Pin From Net: NetName=GND Pin=TP8-2
+Removed Pin From Net: NetName=GND Pin=U1-22
+Removed Pin From Net: NetName=GND Pin=U1-23
+Removed Pin From Net: NetName=GND Pin=U1-24
+Removed Pin From Net: NetName=GND Pin=U1-25
+Removed Pin From Net: NetName=GND Pin=U1-26
+Removed Pin From Net: NetName=GND Pin=U1-27
+Removed Pin From Net: NetName=GND Pin=U1-28
+Removed Pin From Net: NetName=GND Pin=U1-29
+Removed Member From Class: ClassName=MCU Member=TP8
+Added Component: Designator=SW2(PTS526SP15SMTR2 LFS)
+Add component (AddParameter): Name = "Item Type"; Value = "Switch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C2991193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ITT C&K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "PTS526SP15SMTR2LFS"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing"; Value = "1=0.14, 10=0.135, 50=0.135, 100=0.12, 1000=0.12, 10000=0.102 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock"; Value = "8224"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "Mouser"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=SW2-1
+Added Pin To Net: NetName=GND Pin=SW2-2
+Added Pin To Net: NetName=RST Pin=SW2-3
+Added Pin To Net: NetName=RST Pin=SW2-4
+Added Member To Class: ClassName=MCU Member=Component R6 10K
+Added Member To Class: ClassName=MCU Member=Component R7 10K
+Added Member To Class: ClassName=IMU Member=Component R43 0R
+Added Member To Class: ClassName=MCU Member=Component SW2 PTS526SP15SMTR2LFS

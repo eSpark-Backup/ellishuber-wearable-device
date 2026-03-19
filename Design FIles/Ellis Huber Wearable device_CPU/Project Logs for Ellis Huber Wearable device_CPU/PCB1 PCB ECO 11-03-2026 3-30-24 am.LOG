@@ -1,0 +1,48 @@
+Added Component: Designator=U(RIGADO_BMD-340-A-R)
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "U-Blox America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "BMD-340-A-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Module Rigado"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/BMD-340-A-R/U-Blox%20America%20Inc./view-part/2079913/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U-1
+Added Pin To Net: NetName=GND Pin=U-2
+Added Pin To Net: NetName=GND Pin=U-3
+Added Pin To Net: NetName=GND Pin=U-4
+Added Pin To Net: NetName=GND Pin=U-5
+Added Pin To Net: NetName=NetJ2_5 Pin=U-6
+Added Pin To Net: NetName=NetJ2_4 Pin=U-7
+Added Pin To Net: NetName=NetJ2_3 Pin=U-8
+Added Pin To Net: NetName=NetU2_10 Pin=U-9
+Added Pin To Net: NetName=NetU2_9 Pin=U-10
+Added Pin To Net: NetName=NetU2_8 Pin=U-11
+Added Pin To Net: NetName=NetU2_7 Pin=U-12
+Added Pin To Net: NetName=NetU3_12 Pin=U-15
+Added Pin To Net: NetName=GND Pin=U-16
+Added Pin To Net: NetName=+3.3V Pin=U-17
+Added Pin To Net: NetName=GND Pin=U-18
+Added Pin To Net: NetName=NetR8_2 Pin=U-22
+Added Pin To Net: NetName=Motor_CNTRL2 Pin=U-23
+Added Pin To Net: NetName=NetR10_1 Pin=U-25
+Added Pin To Net: NetName=GND Pin=U-29
+Added Pin To Net: NetName=GND Pin=U-30
+Added Pin To Net: NetName=RST Pin=U-39
+Added Pin To Net: NetName=NetR11_1 Pin=U-40
+Added Pin To Net: NetName=NetJ2_7 Pin=U-41
+Added Pin To Net: NetName=NetJ2_6 Pin=U-42
+Added Pin To Net: NetName=NetTP1_3 Pin=U-43
+Added Pin To Net: NetName=NetTP1_4 Pin=U-44
+Added Pin To Net: NetName=GND Pin=U-45
+Added Pin To Net: NetName=GND Pin=U-46
+Added Pin To Net: NetName=GND Pin=U-47
+Added Pin To Net: NetName=NetR23_2 Pin=U-49
+Added Pin To Net: NetName=NetR24_2 Pin=U-50
+Added Pin To Net: NetName=NetR4_1 Pin=U-54
+Added Pin To Net: NetName=GND Pin=U-55
+Added Pin To Net: NetName=SDA Pin=U-58
+Added Pin To Net: NetName=SCL Pin=U-59
+Added Pin To Net: NetName=NetR5_1 Pin=U-61
+Added Pin To Net: NetName=NetU2_11 Pin=U-64
+Added Pin To Net: NetName=+3.3V Pin=U-65
+Added Member To Class: ClassName=MCU Member=Component U BMD-340-A-R

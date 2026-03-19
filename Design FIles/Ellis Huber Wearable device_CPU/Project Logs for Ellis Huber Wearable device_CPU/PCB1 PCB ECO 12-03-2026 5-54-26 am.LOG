@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=NetC29_2 Pin=TP2-1
+Removed Pin From Net: NetName=NetD1_2 Pin=TP2-2
+Removed Pin From Net: NetName=NetC29_2 Pin=TP?-1
+Removed Member From Class: ClassName=Motor_Driver Member=TP2
+Removed Member From Class: ClassName=Motor_Driver Member=TP?
+Change Component Designator: OldDesignator=C? NewDesignator=C19
+Change Component Designator: OldDesignator=D? NewDesignator=D2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Added Component: Designator=J6(HDR 1x2 Male 1.27mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-1-27-1-2P_C703015.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C703015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE(BOOM Precision Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1.27-1*2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,P=1.27mm"; VariantName = "[No Variations]"
+Added Component: Designator=J7(HDR 1x2 Male 1.27mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-1-27-1-2P_C703015.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C703015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE(BOOM Precision Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1.27-1*2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,P=1.27mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC29_2 Pin=J6-2
+Added Pin To Net: NetName=NetD1_2 Pin=J7-1
+Added Pin To Net: NetName=NetC29_2 Pin=J7-2
+Change Net Name : Old Net Name=NetC29_2 New Net Name=NetC19_2
+Change Net Name : Old Net Name=NetQ?_1 New Net Name=NetQ2_1
+Change Net Name : Old Net Name=NetR?_2 New Net Name=NetR2_2
+Added Pin To Net: NetName=NetD2_2 Pin=D2-2
+Added Pin To Net: NetName=NetD2_2 Pin=J6-1
+Added Pin To Net: NetName=NetD2_2 Pin=Q2-3
+Added Net: Name=NetD2_2
+Added Member To Class: ClassName=Motor_Driver Member=Component J6 VL91022-160-320H
+Added Member To Class: ClassName=Motor_Driver Member=Component J7 VL91022-160-320H
+Added Member To Class: ClassName=Motor_Driver Member=Component R2 100R

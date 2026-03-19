@@ -1,0 +1,56 @@
+Added Component: Designator=L3(WE-WPCC_RX_760308103215)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/760308103215/W%25C3%25BCrth+Elektronik+Midcom/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DigiKey Part Number"; Value = "732-8241-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wurth Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "760308103215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "760308103215"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add Component: Footprint Not Found RIGADO_BMD-340-A-R
+Added Pin To Net: NetName=NetC9_1 Pin=L3-1
+Added Pin To Net: NetName=NetC2_1 Pin=L3-2
+Add Pin To Net: Unknown Pin: Pin U-1
+Add Pin To Net: Unknown Pin: Pin U-2
+Add Pin To Net: Unknown Pin: Pin U-3
+Add Pin To Net: Unknown Pin: Pin U-4
+Add Pin To Net: Unknown Pin: Pin U-5
+Add Pin To Net: Unknown Pin: Pin U-6
+Add Pin To Net: Unknown Pin: Pin U-7
+Add Pin To Net: Unknown Pin: Pin U-8
+Add Pin To Net: Unknown Pin: Pin U-9
+Add Pin To Net: Unknown Pin: Pin U-10
+Add Pin To Net: Unknown Pin: Pin U-11
+Add Pin To Net: Unknown Pin: Pin U-12
+Add Pin To Net: Unknown Pin: Pin U-15
+Add Pin To Net: Unknown Pin: Pin U-16
+Add Pin To Net: Unknown Pin: Pin U-17
+Add Pin To Net: Unknown Pin: Pin U-18
+Add Pin To Net: Unknown Pin: Pin U-22
+Add Pin To Net: Unknown Pin: Pin U-23
+Add Pin To Net: Unknown Pin: Pin U-25
+Add Pin To Net: Unknown Pin: Pin U-29
+Add Pin To Net: Unknown Pin: Pin U-30
+Add Pin To Net: Unknown Pin: Pin U-39
+Add Pin To Net: Unknown Pin: Pin U-40
+Add Pin To Net: Unknown Pin: Pin U-41
+Add Pin To Net: Unknown Pin: Pin U-42
+Add Pin To Net: Unknown Pin: Pin U-43
+Add Pin To Net: Unknown Pin: Pin U-44
+Add Pin To Net: Unknown Pin: Pin U-45
+Add Pin To Net: Unknown Pin: Pin U-46
+Add Pin To Net: Unknown Pin: Pin U-47
+Add Pin To Net: Unknown Pin: Pin U-49
+Add Pin To Net: Unknown Pin: Pin U-50
+Add Pin To Net: Unknown Pin: Pin U-54
+Add Pin To Net: Unknown Pin: Pin U-55
+Add Pin To Net: Unknown Pin: Pin U-58
+Add Pin To Net: Unknown Pin: Pin U-59
+Add Pin To Net: Unknown Pin: Pin U-61
+Add Pin To Net: Unknown Pin: Pin U-64
+Add Pin To Net: Unknown Pin: Pin U-65
+Add Pin To Net: Unknown Pin: Pin U-66
+Add Pin To Net: Unknown Pin: Pin U-67
+Add Pin To Net: Unknown Pin: Pin U-68
+Add Differential Pair: Number of nets in differential pair NetJ4_2 is 1 instead of 2
+Add Differential Pair: Number of nets in differential pair NetJ4_3 is 1 instead of 2
+Added Member To Class: ClassName=Wireless_Charging Member=Component L3 14.3uH
+Add Class Member: Failed to add class member : Component U BMD-340-A-R

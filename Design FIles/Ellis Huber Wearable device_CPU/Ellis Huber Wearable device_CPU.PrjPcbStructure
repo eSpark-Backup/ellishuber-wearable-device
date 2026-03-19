@@ -1,0 +1,5 @@
+Record=TopLevelDocument|FileName=IMU.SchDoc|SheetNumber=5
+Record=NoMainPathDocument|SourceDocument=IMU.SchDoc|FileName=MCU.SchDoc|SheetNumber=2
+Record=NoMainPathDocument|SourceDocument=IMU.SchDoc|FileName=Motor_Driver.SchDoc|SheetNumber=4
+Record=NoMainPathDocument|SourceDocument=IMU.SchDoc|FileName=Power_Management.SchDoc|SheetNumber=3
+Record=NoMainPathDocument|SourceDocument=IMU.SchDoc|FileName=Wireless_Charging.SchDoc|SheetNumber=1

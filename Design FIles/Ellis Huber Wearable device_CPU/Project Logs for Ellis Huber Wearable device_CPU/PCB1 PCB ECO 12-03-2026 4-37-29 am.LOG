@@ -1,0 +1,25 @@
+Removed Pin From Net: NetName=NetC9_1 Pin=L3-1
+Removed Pin From Net: NetName=NetC2_1 Pin=L3-2
+Removed Member From Class: ClassName=Wireless_Charging Member=L3
+Added Component: Designator=J4(HDR 1x2 Male 1.27mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-1-27-1-2P_C703015.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C703015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE(BOOM Precision Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1.27-1*2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,P=1.27mm"; VariantName = "[No Variations]"
+Added Component: Designator=J5(HDR 1x2 Male 1.27mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-1-27-1-2P_C703015.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C703015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE(BOOM Precision Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1.27-1*2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,P=1.27mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC9_1 Pin=J4-1
+Added Pin To Net: NetName=NetC2_1 Pin=J4-2
+Added Pin To Net: NetName=NetC9_1 Pin=J5-1
+Added Pin To Net: NetName=NetC2_1 Pin=J5-2
+Added Member To Class: ClassName=Wireless_Charging Member=Component J4 1.27-1*2P
+Added Member To Class: ClassName=Wireless_Charging Member=Component J5 1.27-1*2P

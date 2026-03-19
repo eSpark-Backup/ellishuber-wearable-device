@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=RST Pin=SW1-3
+Removed Pin From Net: NetName=RST Pin=SW1-4
+Removed Pin From Net: NetName=NetR10_1 Pin=TP8-1
+Change Component Designator: OldDesignator=2 NewDesignator=U
+Added Pin To Net: NetName=NetR10_1 Pin=SW1-3
+Added Pin To Net: NetName=NetR10_1 Pin=SW1-4
+Added Pin To Net: NetName=RST Pin=TP8-1

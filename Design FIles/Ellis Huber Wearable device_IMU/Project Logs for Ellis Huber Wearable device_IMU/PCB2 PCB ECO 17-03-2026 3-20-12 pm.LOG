@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=MTR_PWR Pin=TP2-1
+Removed Pin From Net: NetName=NetD2_2 Pin=TP2-2
+Removed Member From Class: ClassName=IMU1 Member=TP2
+Added Component: Designator=J2(HDR 1x2 Male 1.27mm)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "LCSC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.lcsc.com/product-detail/Pin-Headers_BOOMELE-Boom-Precision-Elec-1-27-1-2P_C703015.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Item Type"; Value = "Male"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LCSC Part Number"; Value = "C703015"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "BOOMELE(BOOM Precision Elec)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "1.27-1*2P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "Plugin,P=1.27mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD2_2 Pin=J2-1
+Added Pin To Net: NetName=MTR_PWR Pin=J2-2
+Added Member To Class: ClassName=IMU1 Member=Component J2 VL91022-160-320H
