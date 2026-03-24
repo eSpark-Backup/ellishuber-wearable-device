@@ -1,0 +1,15 @@
+Added Component: Designator=TP2(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST POINT 0.5mm Dia"; VariantName = "[No Variations]"
+Added Component: Designator=TP3(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST POINT 0.5mm Dia"; VariantName = "[No Variations]"
+Added Component: Designator=TP4(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST POINT 0.5mm Dia"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=TP2-1
+Added Pin To Net: NetName=+3V3 Pin=TP3-1
+Added Pin To Net: NetName=+3V3_M Pin=TP4-1
+Added Member To Class: ClassName=IMU1 Member=Component TP2 TEST POINT 0.5mm Dia
+Added Member To Class: ClassName=IMU1 Member=Component TP3 TEST POINT 0.5mm Dia
+Added Member To Class: ClassName=IMU1 Member=Component TP4 TEST POINT 0.5mm Dia

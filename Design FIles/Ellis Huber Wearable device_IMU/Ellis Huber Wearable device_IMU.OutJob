@@ -2,15 +2,15 @@
 Version=1.0
 
 [PublishSettings]
-OutputFilePath2=D:\embedded Designers\LocAl\EllisHuber-Wearable-device\Design FIles\Ellis Huber Wearable device_IMU\.PDF
+OutputFilePath2=D:\embedded Designers\LocAl\EllisHuber-Wearable-device\Design FIles\Ellis Huber Wearable device_IMU\Deliverables\Schematic\.PDF
 ReleaseManaged2=0
-OutputBasePath2=D:\embedded Designers\LocAl\EllisHuber-Wearable-device\Design FIles\Ellis Huber Wearable device_IMU\
+OutputBasePath2=D:\embedded Designers\LocAl\EllisHuber-Wearable-device\Design FIles\Ellis Huber Wearable device_IMU\Deliverables\Schematic\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=Ellis Huber Wearable device_IMU.pdf
+OutputFileName2=Schematic.pdf
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -81,7 +81,7 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=D:\embedded Designers\LocAl\EllisHuber-Wearable-device\Design FIles\Ellis Huber Wearable device_IMU\.PDF
+RelativeOutputPath2=D:\embedded Designers\LocAl\EllisHuber-Wearable-device\Design FIles\Ellis Huber Wearable device_IMU\Deliverables\Schematic\.PDF
 OpenOutputs2=1
 RelativeOutputPath3=
 OpenOutputs3=1
