@@ -1,0 +1,10 @@
+Added Component: Designator=TP8(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST POINT 0.5mm Dia"; VariantName = "[No Variations]"
+Added Component: Designator=TP9(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST POINT 0.5mm Dia"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC23_2 Pin=TP8-1
+Added Pin To Net: NetName=VOS Pin=TP9-1
+Added Member To Class: ClassName=Power_Management Member=Component TP8 TEST POINT 0.5mm Dia
+Added Member To Class: ClassName=Power_Management Member=Component TP9 TEST POINT 0.5mm Dia

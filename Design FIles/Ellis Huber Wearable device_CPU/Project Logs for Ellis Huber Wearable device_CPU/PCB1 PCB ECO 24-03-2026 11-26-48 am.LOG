@@ -1,0 +1,5 @@
+Added Component: Designator=TP7(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST POINT 0.5mm Dia"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=TP7-1
+Added Member To Class: ClassName=MCU Member=Component TP7 TEST POINT 0.5mm Dia

@@ -1,0 +1,2 @@
+Change Component Designator: OldDesignator=TP? NewDesignator=TP4
+Added Pin To Net: NetName=W_Power Pin=TP4-1

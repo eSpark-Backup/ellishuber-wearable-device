@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: Ellis Huber Wearable device_CPU.PcbDoc   24/03/2026  11:42:32 am
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : Ellis Huber Wearable device_CPU.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.2mm (8mil)                                              Round             159       PTH        391.98mm (15.43inch)
+T2      0.75mm (30mil)                                            Round             8         PTH        45.49mm (1.79inch)
+T3      1mm (39mil)                                               Round             8         PTH        18.31mm (0.72inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              175
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,4 @@
+Added Component: Designator=TP?(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST POINT 0.5mm Dia"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=Wireless_Charging Member=Component TP? TEST POINT 0.5mm Dia

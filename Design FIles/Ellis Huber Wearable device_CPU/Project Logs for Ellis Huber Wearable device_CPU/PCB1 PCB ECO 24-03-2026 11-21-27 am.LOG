@@ -1,0 +1,10 @@
+Added Component: Designator=TP5(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST POINT 0.5mm Dia"; VariantName = "[No Variations]"
+Added Component: Designator=TP6(Test-point - 0.5mm)
+Add component (AddParameter): Name = "Item Type"; Value = "Test Point"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "TEST POINT 0.5mm Dia"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC2_1 Pin=TP5-1
+Added Pin To Net: NetName=NetC9_1 Pin=TP6-1
+Added Member To Class: ClassName=Wireless_Charging Member=Component TP5 TEST POINT 0.5mm Dia
+Added Member To Class: ClassName=Wireless_Charging Member=Component TP6 TEST POINT 0.5mm Dia
